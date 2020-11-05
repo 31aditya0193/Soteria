@@ -1,8 +1,8 @@
 //
 //  Banner.swift
-//  Dozee
+//  Soteria
 //
-//  Created by Aditya Mishra on 30/10/20.
+//  Created by Aditya Mishra on 05/11/20.
 //
 
 import SwiftUI

@@ -1,8 +1,8 @@
 //
 //  NetworkManager.swift
-//  Dozee
+//  Soteria
 //
-//  Created by Aditya Mishra on 31/10/20.
+//  Created by Aditya Mishra on 05/11/20.
 //
 
 import Foundation

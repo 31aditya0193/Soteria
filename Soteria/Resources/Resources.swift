@@ -1,8 +1,8 @@
 //
 //  Data.swift
-//  Dozee
+//  Soteria
 //
-//  Created by Aditya Mishra on 01/11/20.
+//  Created by Aditya Mishra on 05/11/20.
 //
 
 import Foundation
@@ -27,7 +27,7 @@ var descriptions = [ "The heart rate is one of the ‘vital signs’ or the impo
                      "The Respiration Rate is another ‘Vital Sign’ which is one of the most important indicators of health in the human body. Respiration rate is reported in respirations (breaths) per minute. Each respiration has two phases: Inhalation and exhalation. During inhalation, oxygen is brought into the lungs from where it is transported throughout the body via the bloodstream. During exhalation, carbon dioxide is eliminated.",
                      "Oxygen saturation refers to the extent to which hemoglobin is saturated with oxygen. Hemoglobin is an element in your blood that binds with oxygen to carry it through the bloodstream to the organs, tissues, and cells of your body. It is an important parameter for managing patients in a clinical setup.",
                      "Blood pressure (BP) is the pressure of circulating blood against the walls of blood vessels. Most of this pressure results from the heart pumping blood through the circulatory system. When used without qualification, the term \"blood pressure\" refers to the pressure in the large arteries. Blood pressure is usually expressed in terms of the systolic pressure (maximum pressure during one heartbeat) over diastolic pressure(minimum pressure between two heartbeats) in the cardiac cycle. It is measured in millimeters of mercury (mmHg) above the surrounding atmospheric pressure.",
-                     "Sleep is a complex process of the body. Contrary to the popular belief that the brain and body shut down during sleep, both go through several processes to ensure adequate recovery — from burning calories to clearing neurotoxins and more. Most healthy adults need 7-9 hours of sleep as per NIH, USA. Dozee’s sleep score quantifies the efficacy of your sleep by measuring several parameters related to your sleep including body vitals, sleep routine, composition of sleep, and restfulness among others.",
+                     "Sleep is a complex process of the body. Contrary to the popular belief that the brain and body shut down during sleep, both go through several processes to ensure adequate recovery — from burning calories to clearing neurotoxins and more. Most healthy adults need 7-9 hours of sleep as per NIH, USA. Soteria’s sleep score quantifies the efficacy of your sleep by measuring several parameters related to your sleep including body vitals, sleep routine, composition of sleep, and restfulness among others.",
                      "Stress is the body's response to anything that moves it away from being ‘Normal’ or ‘Healthy’. Stress hence is much more than the mental stress how we perceive it. It can be physical, hormonal, digestive, environmental, and mental. Recovery Score enables you to track the effectiveness of your sleep to help you recover from the stress that you accumulate during the day. High recovery levels are excellent indicators of good health."
                     ]
 
